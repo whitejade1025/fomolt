@@ -680,9 +680,9 @@
       );
     }
     let l = [
-      { href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon", label: "Dextools", key: "01" },
-      { href: "https://dexscreener.com/ethereum/0xcomingsoon", label: "Dexscreener", key: "02" },
-      { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon", label: "Uniswap", key: "03" },
+      { href: "https://www.dextools.io/app/en/ether/pair-explorer/0x5fd65b12a0f87f14c0b648f243de41969af01620", label: "Dextools", key: "01" },
+      { href: "https://dexscreener.com/ethereum/0x5fd65b12a0f87f14c0b648f243de41969af01620", label: "Dexscreener", key: "02" },
+      { href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x5fd65b12a0f87f14c0b648f243de41969af01620", label: "Uniswap", key: "03" },
     ];
     function u() {
       let e,
